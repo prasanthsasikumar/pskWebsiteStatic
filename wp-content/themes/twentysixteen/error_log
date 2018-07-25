@@ -1,0 +1,10 @@
+[29-Oct-2017 23:52:59 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Nov-2017 09:51:48 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[05-Dec-2017 10:45:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[02-Jan-2018 22:06:17 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[11-Feb-2018 01:28:12 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Mar-2018 20:27:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[17-Mar-2018 01:19:53 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-Jun-2018 04:38:38 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[07-Jun-2018 04:38:42 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[07-Jun-2018 04:39:21 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/prasojwj/public_html/wp-content/themes/twentysixteen/header.php on line 13

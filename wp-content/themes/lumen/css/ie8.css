@@ -1,0 +1,27 @@
+.page-content {
+	overflow-y: scroll !important;	
+}
+img { height: auto; }
+.contact-photo-wrapper {
+	background: none!important;
+}
+input[type="text"], textarea {
+	border-bottom: 1px solid rgb(255, 255, 255)!important;
+}
+.contact-form label {
+	min-width: 100px;
+}
+
+.contact-form input[type="submit"] {
+  background-image: url(../images/ie8_submit.png);
+  border: none;
+  height: 100px;
+  width: 100px;
+}
+
+article .post-content, article .work-content { display: none; }
+article.open .post-content, article.open .work-content, article.post-it-right .work-content, article.post-it-left .work-content { display: block; }
+
+.comment-respond input[type="text"], .comment-respond textarea {
+	border-bottom: 1px solid #000!important;
+}

@@ -1,0 +1,26 @@
+/* BEGIN lumen_options_css */
+/* Primary typography */
+body, .widget_calendar caption, .noresults-page p, #toggle-sidebar, #toggle-categories {
+  
+}
+
+/* Secondary typography */
+.widget, .pricing-table .price small, .post-date span.date, .tags span, .toggle-comments, #respond h3 a, .logged-in-as, .logged-in-as a, .work-title span.date {
+  
+}
+
+h1 {  }
+h2 {  }
+h3 {  }
+h4 {  }
+h5 {  }
+h6 {  }
+
+.post-content p {
+  
+}
+.work-content p {
+  
+}
+.main-nav a {  }
+/* END lumen_options_css */

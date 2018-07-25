@@ -1,0 +1,2 @@
+[06-Jun-2018 09:28:23 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /home/prasojwj/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[06-Jun-2018 09:28:36 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /home/prasojwj/public_html/wp-includes/theme-compat/embed-content.php on line 13
